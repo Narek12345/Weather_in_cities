@@ -1,3 +1,5 @@
+![alt text](https://github.com/Narek12345/Weather_in_cities/blob/main/weather.jpg?raw=true)
+
 # Temperature by cities
 **A small project for viewing the weather by city**
 
